@@ -2,6 +2,5 @@
 
 **Email:** [anaya@koirala.xyz](mailto:anaya@koirala.xyz) • **Website:** [koirala.xyz](https://koirala.xyz)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaya-Koirala&langs_count=20" alt="Top Languages" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaya-Koirala&langs_count=10)]
 </div>
