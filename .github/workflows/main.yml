@@ -1,7 +1,7 @@
 name: Update Language Statistics
 
 on:
-  -push
+  - push
 
 permissions:
   contents: write
