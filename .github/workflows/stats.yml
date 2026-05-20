@@ -1,7 +1,10 @@
 name: Update Language Statistics
 
 on:
-  - push
+  schedule:
+    - cron: '0 0 1,15 * *'
+  # Allow manual trigger for testing
+  workflow_dispatch:
 
 permissions:
   contents: write
