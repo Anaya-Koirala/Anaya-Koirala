@@ -16,7 +16,8 @@ jobs:
       - uses: StefVuck/Github-Language-Stats@v1.2.0
         with:
           github_token: ${{ secrets.LANG_STATS }}
-          visualization_types: "horizontal-bar"
+          visualization_types: "horizontal-bar donut bar"
           exclude_languages: "HTML,CSS,Markdown"
+          exclude_repos: "hshare"
           output_path: "stats"
           include_forks: true
