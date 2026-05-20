@@ -18,7 +18,7 @@ jobs:
         with:
           github_token: ${{ secrets.LANG_STATS }}
           visualization_types: "horizontal-bar donut bar"
-          exclude_languages: "HTML,CSS,Markdown,Nushell,Shell,Makefile"
+          exclude_languages: "html,css,markdown,nushell,shell,makefile,nu,make"
           exclude_repos: "hshare"
           output_path: "stats"
           include_forks: true
